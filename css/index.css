@@ -1,42 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 body {
-  background-image: url(/images/dat.png);
+  background-image: url(../images/dat.png);
   text-align: center;
-
-}
-
-body a:link {
-  color: #848484;
-}
-
-body a:visited {
-  color: #5C5C5C;
-}
-
-h1 {
+  font-family: 'Open Sans', 'DejaVu Sans', 'Liberation Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: grey;
+  font-size: 17px;
 }
 
+a { color: #848484; }
+a:visited { color: #5C5C5C; } 
 
-h2 {
-  color: grey;
+main {
+  background: rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  padding: 20px;
 }
 
-h3 {
-  color: grey;
-}
-
-h4 {
-  color: grey;
-}
-
-h5 {
-  color: grey;
-}
-
-p {
-  color: grey;
-}
-
-ul.find_me_on_list {
-  color: darkgreen;
-}
+.fmoli a { color: #008000; }
+.fmoli a:visited { color: #507050; }
