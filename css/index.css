@@ -1,0 +1,42 @@
+body {
+  background-image: url(/images/dat.png);
+  text-align: center;
+
+}
+
+body a:link {
+  color: #848484;
+}
+
+body a:visited {
+  color: #5C5C5C;
+}
+
+h1 {
+  color: grey;
+}
+
+
+h2 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+h4 {
+  color: grey;
+}
+
+h5 {
+  color: grey;
+}
+
+p {
+  color: grey;
+}
+
+ul.find_me_on_list {
+  color: darkgreen;
+}

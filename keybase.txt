@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/zackp30
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://apertron.net
+  * I am zackp30 (https://keybase.io/zackp30) on keybase.
+  * I have a public key with fingerprint 7EC8 45D4 8AF7 F7AE 7BF9  08B6 FBB8 71A6 C8AF 01AE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.0"
+        },
+        "key": {
+            "fingerprint": "7ec845d48af7f7ae7bf908b6fbb871a6c8af01ae",
+            "host": "keybase.io",
+            "key_id": "FBB871A6C8AF01AE",
+            "uid": "77426991885b2b29c212f894184bea00",
+            "username": "zackp30"
+        },
+        "merkle_root": {
+            "ctime": 1401359610,
+            "hash": "da289c9bf99a249cab7dff1a7d2dad09ab467f5e59ac2ab2c2a5f68b8461ef226599ce80edcbb3a68ba2ce16359bf1acd30fecd9456b9beb528adf850ab0e090",
+            "seqno": 13047
+        },
+        "service": {
+            "hostname": "apertron.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1401359651,
+    "expire_in": 157680000,
+    "prev": "5d438e80d5868227713de371a98b8f011e7ef3603d2515e8021fb7d5848295cc",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+owFdUn1MVWUcvlywLRwJ+bEBbtHREBAv5/vj2lAgcZorvhop0d15z3kPHC7cczn3
+8iVCSnMocyBETJiYuKIGJX1QFJGYa+aSCMUrC5iJLAmCjSnBID56D6P1cf54d973
+97zP73l+z3vWz9tk9vrzy9zmG21el71ujgNTcrnftmIMaHIRZi3GpGwVOtzGn0PM
+gZgVs8MiILqgRdVCHJoMLVmukDVMJJYPdZeqORAKt9AWHCuJNODGZUV1ZEDdqasG
+F8ZBiacZmeZFhVM4EXJAEXAesAoAPEeIrIQKOCFCRJmpudz/6YqtctpUGZ3Gx8Yi
+fAwbx8fE40TMPlTLWy1wHE2ygkDwPANIQAoSSZAKL9AETwMo4rgBdEF9zdJRUbI7
+qVW5OVC3Z0ObrmmrniW3aiAIGicoRmAJHAkSXZnojiySvCAJSLggkrQgiYCTFYUQ
+OZmURRkXRECznMJARhAlUgQkWhiF5QFPswRUSJJlBEGCPA5lCQBKRBWRlCDBojYA
+0UgyhStQkgWaYYEAIGBIXpQVnsFFgENcMBy4YK5DQ+IonOZKjK2er0rQkG0Mbc2b
+6IS6W9ccFgc0EnLqmluTtGxUyXS7nVbDs7vIaSALILC5YOsqiQ2oDhlF9u9MCQT9
+3zwYIhKDhU5VhzbVQDAcy+PoM/rAfMSJMqZ45FJmeJYnSY4jKBlSKGIBTQJFTEAO
+KhSLUzLJEAwCkoSCBsnwNE8KjCT945JHOsUMROlSMxyiO0+HWMlp81Yfk5fZ9MQ6
+s/FoTb5P+v/9ksGuDUtb1K8jp6j7M18MmZufmzpo5RaPw7L+b3wC/XqKX+3qiveP
+9bQUfDAx7r0+YvMz4ePzrzcXzVe4um/4XAqVArve86RF/J4zGFlifbEGtEfMkWNa
+09XBlZoWz2efji/2XIur9+R5L1dSvcdqt8/6N/6wpdSWr55rxqIm4qNbfgmwP9v3
+fvXGezum5yLL+/w3OKMoe+jWtPLyJbm7e6T5+biUFmysI223Gkafx84djvL1Hd17
+N2hmNPvbhPzOz8cSnIt3Vtqvv/Obc64/v+2r3NScqYGK/pGHZxceBzddiaCXM6Rb
+88Ge4cm6rqlXTA2OU0d+za1Syqpmwueul9T7Def+tHn4QJ11MKV158DI4Z9bd+ak
+vzU83VNfX93AVhY+vLkvxXxNb7uAb7qVtex5dPRD/48ae6M76acDZwfePBSStt8n
+T1vouH3wYsDjwo2TVdWZuNeDMH3K3hDzctUJ2tnEFHF7B+be3VT7ydtaVpDZ6ikN
+sya3fAdMQ52vXSkn+k7dST7yxpnZMLzyYzUpuyJnXULjyIn61Lu29KLljkP2VE/v
+aFLZU7Xze8YCq9L18w/+KLW8dEY4eXwoOnVy/0pAOkEmyWUTnfSxXdV7El9I/L7K
+osQN6gVdPyYkEicvXQ6qK89z7XD4FMPm9m2311fes8YG7764FBV6P/zRQs3pC5Rw
+dXp79oG/AA==
+=QP4S
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zackp30
+
+==================================================================
