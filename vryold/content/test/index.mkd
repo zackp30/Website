@@ -1,5 +1,6 @@
 ---
 title: Test
+markup: pandoc
 ---
 
 
@@ -12,6 +13,10 @@ How did you even find this?
 Stuff and things.
 
 
-Along with things.
+Along with things.[^1]
+
+_test_
+
+[^1]: Test
 
 

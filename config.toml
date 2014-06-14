@@ -1,9 +1,0 @@
-baseurl = "http://apertron.net"
-languageCode = "en-us"
-title = "Zack Piper - I do stuff."
-
-[[menu.sidebar]]
-name = "Links"
-Url = "http://duckduckgo.com"
-
-
